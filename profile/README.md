@@ -19,11 +19,9 @@ To address these challenges, we have designed _SignEase_, a technology-based app
 _SignEase_ is a machine learning-powered application designed to assist individuals with hearing and speech impairments in learning sign language. The application utilizes video classification to interpret sign language gestures and provides users with interactive lessons and feedback. By leveraging machine learning algorithms, SignEase aims to make learning sign language accessible, engaging, and effective.
 
 ## Demo Application
+https://github.com/user-attachments/assets/eeb51c28-4fcf-48f1-ab29-520a9cd46ed0
 
-<video width="100%" height="auto" controls>
-  <source src="https://github.com/MachineL-Group/.github/blob/main/profile/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ### Try Our App
 
