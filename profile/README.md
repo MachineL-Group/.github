@@ -18,6 +18,24 @@ To address these challenges, we have designed _SignEase_, a technology-based app
 
 _SignEase_ is a machine learning-powered application designed to assist individuals with hearing and speech impairments in learning sign language. The application utilizes video classification to interpret sign language gestures and provides users with interactive lessons and feedback. By leveraging machine learning algorithms, SignEase aims to make learning sign language accessible, engaging, and effective.
 
+## SignEase Features
+
+### 📹 Video Lessons
+
+SignEase offers a comprehensive library of video lessons designed to teach users the basics of sign language. Each video is crafted by expert sign language instructors, providing clear and concise demonstrations of various gestures and signs. Users can watch, rewind, and replay these videos as many times as they need to fully understand each sign.
+
+### ✋ Practice Sessions
+
+To reinforce learning, SignEase includes interactive practice sessions. Users can practice the signs they have learned by using their device's camera. The app uses advanced gesture recognition technology to provide real-time feedback, ensuring that users are performing the signs correctly. This hands-on approach helps solidify the user's understanding and mastery of sign language.
+
+### 📝 Quizzes
+
+To assess the user's progress and understanding, SignEase features a variety of quizzes. These quizzes range from multiple-choice questions to practical sign language tests. Users can test their knowledge and receive instant feedback on their performance. Quizzes are designed to be both challenging and fun, motivating users to continue learning and improving their skills.
+
+### 🏆 Leaderboard
+
+SignEase includes a leaderboard feature that adds a competitive element to the learning process. Users can see how they rank against other learners based on their quiz scores and practice session performances. The leaderboard fosters a sense of community and encourages users to stay engaged and motivated. By competing with peers, users are driven to continually improve and achieve higher scores.
+
 ## Demo Application
 
 <video width="100%" height="auto" controls>
@@ -100,6 +118,14 @@ Try out our application:
   - GitHub: [Ezra's GitHub](https://github.com/heyZra)
 
 ## Additional Resources
+
+## Repository Branches
+
+In our project is divided into four branches:
+
+- [Machine Learning](https://github.com/MachineL-Group/Machine-Learning-Project.git) || [Backend Machine Learning](https://github.com/MachineL-Group/backend-ml.git)
+- [Backend](https://github.com/MachineL-Group/backend.git)
+- [Frontend](https://github.com/MachineL-Group/frontend.git)
 
 ### 📖 Proposal Magazine
 
