@@ -37,11 +37,9 @@ To assess the user's progress and understanding, SignEase features a variety of 
 SignEase includes a leaderboard feature that adds a competitive element to the learning process. Users can see how they rank against other learners based on their quiz scores and practice session performances. The leaderboard fosters a sense of community and encourages users to stay engaged and motivated. By competing with peers, users are driven to continually improve and achieve higher scores.
 
 ## Demo Application
+https://github.com/user-attachments/assets/eeb51c28-4fcf-48f1-ab29-520a9cd46ed0
 
-<video width="100%" height="auto" controls>
-  <source src="https://github.com/MachineL-Group/.github/blob/main/profile/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ### Try Our App
 
