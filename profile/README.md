@@ -9,11 +9,11 @@ To address these challenges, we have designed _SignEase_, a technology-based app
 ## About SignEase
 
 <p align="center">
-  <img src="assets/logo.jpg" alt="SignEase Logo" style="width:200;">
+  <img src="assets/logo.jpg" alt="SignEase Logo" width="200">
 </p>
 
 <p align="center">
-  <img src="assets/cover.jpg" alt="SignEase Cover" style="width:600;">
+  <img src="assets/cover.jpg" alt="SignEase Cover" width="400">
 </p>
 
 _SignEase_ is a machine learning-powered application designed to assist individuals with hearing and speech impairments in learning sign language. The application utilizes video classification to interpret sign language gestures and provides users with interactive lessons and feedback. By leveraging machine learning algorithms, SignEase aims to make learning sign language accessible, engaging, and effective.
