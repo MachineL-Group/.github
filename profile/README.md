@@ -21,7 +21,7 @@ _SignEase_ is a machine learning-powered application designed to assist individu
 ## Demo Application
 
 <video width="100%" height="auto" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
+  <source src="https://github.com/MachineL-Group/.github/blob/main/profile/assets/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
