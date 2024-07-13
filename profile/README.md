@@ -40,6 +40,8 @@ SignEase includes a leaderboard feature that adds a competitive element to the l
 
 https://github.com/user-attachments/assets/eeb51c28-4fcf-48f1-ab29-520a9cd46ed0
 
+Link youtube: https://youtu.be/eINxmsUpqgo?si=qI_z7myS8Uj-UCQ1
+
 ### Try Our App
 
 Try out our application:
