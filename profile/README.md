@@ -68,7 +68,7 @@ Try out our application:
 
 - **Backend & DevOps Development:**
   - Google Cloud Run
-  - Google Cloud SQL
+  - Vercel
   - MongoDB Atlas
   - Docker
   - NestJS
