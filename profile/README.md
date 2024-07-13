@@ -37,9 +37,8 @@ To assess the user's progress and understanding, SignEase features a variety of 
 SignEase includes a leaderboard feature that adds a competitive element to the learning process. Users can see how they rank against other learners based on their quiz scores and practice session performances. The leaderboard fosters a sense of community and encourages users to stay engaged and motivated. By competing with peers, users are driven to continually improve and achieve higher scores.
 
 ## Demo Application
+
 https://github.com/user-attachments/assets/eeb51c28-4fcf-48f1-ab29-520a9cd46ed0
-
-
 
 ### Try Our App
 
@@ -72,6 +71,21 @@ Try out our application:
   - Docker
   - NestJS
   - Flask
+
+## The system architecture
+
+<p align="center">
+  <img src="assets/sistem.jpg" alt="SignEase Cover" width="100%">
+</p>
+
+Two backend services were developed for the SignEase
+application. The rst, an ML backend using Python Flask, predicts sh types via a
+`POST /predict` endpoint. The second, a main backend using TypeScript and
+NestJS, handles registration, login, email verification, password recovery, Video Lessons, Quizzes, and Practice Sessions. It communicates
+with the ML backend to process sh images and retrieve labels, providing relevant
+information. Both services are deployed on GCP using Cloud Run, MongoDB Atlas,. CI/CD pipelines with GitHub, Docker, and
+Cloud Build support staging (master branch) and production (main branch)
+environments, with Cloud Build creating Docker images for Cloud Run deployment.
 
 ## Team Members
 
@@ -117,7 +131,7 @@ Try out our application:
 
 ## Additional Resources
 
-## Repository Branches
+### Repository Branches
 
 In our project is divided into four branches:
 
