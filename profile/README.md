@@ -149,7 +149,7 @@ For detailed information about our project, check out our proposal magazine:
 ### 🎥 Promotion Video
 
 Watch our promotion video to learn more about SignEase:
-[**Watch Video**](https://www.instagram.com/reel/C63wB4rhmLU/?igshid=dTZ1aXBtdHRibWFu)
+[**Watch Video**](/assets/promotion-video.mp4)
 
 ### 📄 Research Paper
 
